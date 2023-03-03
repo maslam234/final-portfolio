@@ -1,0 +1,243 @@
+body{
+    background-color: #282834;
+    color: white;
+
+}
+
+.main{
+    /* display: flex;  */
+    font-size: 30px;
+    justify-content: center;
+    margin: 34px 29px 9px 55px;
+
+}
+.happy{
+    color: yellow;
+}
+
+.Home{
+    color: #fff;
+}
+.icon{
+    color: yellow;
+}
+.n2 a {
+    color: rgb(205, 205, 201);
+    text-decoration: none;
+}
+.n2 a:hover{
+    color: yellow;
+}
+.n2{ 
+    width: 44%;
+    list-style: none;
+    display: inline-flex;
+    justify-content: space-evenly;
+    position: absolute;
+    left: 293px
+}
+.n3{
+    float: right;
+    color: rgb(165, 165, 163);
+    display: inline;
+    margin: 4px 100px 0px 0px;
+    padding: 7px 35px 0px 0px
+
+
+}
+
+.container{
+display: flex;
+justify-content: space-evenly;
+/* border: red solid 4px; */
+}
+.c1{
+width: 25%;
+font-size: 32px;
+/* border: red solid 4px; */
+padding: 93px;
+z-index: 1;
+}
+
+.i {
+    font-size: 80px;
+    font-weight: 900;
+    color: #575762;
+}
+.ab {
+    font-size: 70px;
+    font-weight: 900;
+   
+    
+}
+.underline{
+    width: 280px;
+    height: 3px;
+    background-color: yellow;
+    margin: 4px 0px 0px 0px;
+    box-shadow: yellow 0px -1px 3px 0px;
+}
+.c2{
+    width: 20%;
+    height: 40%;
+    border-radius: 50%;
+    background-color: rgba(58, 58, 62, 0.83);
+    /* border: 4px solid red; */
+    padding: 74px;
+    position: absolute;
+
+}
+
+.c2 img{
+    width: 88%;
+    position: absolute;
+    right: 30px;
+    
+}
+.c3{
+width: 25%;
+padding: 93px;
+/* border: red solid 4px; */
+font-size: 32px;
+z-index: 1;
+}
+.service{
+    font-size: 48px;
+    font-weight: 900;
+}
+.arrow{
+color: yellow;
+font-size: 32px;
+}
+.fb{
+    color: yellow;
+    font-size: 38px;
+    
+}
+
+.centercon{
+    background-color: rgb(58, 58, 62);
+    width: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 21px 0px 17px 166px;
+    padding: 41px 1px 36px 0px;
+    text-transform: capitalize;
+    box-shadow: rgb(71, 71, 75) 0px -4px 8px 0px;
+
+}
+.i1{
+    background-color: #616167;
+    font-size: 50px;
+    padding:     background-color: #616167;
+    font-size: 50px;
+    padding: 15px 51px 16px 23px
+}
+.fa-meta{
+    color: rgb(9, 75, 243);
+}
+.i4{
+    font-size: 50px;
+    background-color: #616167;
+    padding: 17px 44px 10px 25px
+}
+.i3{
+    font-size: 50px;
+    background-color: #616167;
+    padding: 12px 24px 15px 33px
+}
+.fa-linkedin{
+    color: rgb(9, 75, 243);
+}
+.i2{
+    background-color: #616167;
+    padding: 18px 51px 8px 43px
+}
+.i2 img{
+    width: 170px;
+}
+.i4 img{
+    width: 35px;
+}
+
+.bottom{
+    display: flex;
+    margin-top: 100px;
+    justify-content: space-around;
+    /* padding: 130px 0px 0px 0px */
+}
+.bottom h4{
+    font-size: 60px;
+}
+.bottom p{
+    font-size: 32px;
+}
+.maincontain h3{
+       color: yellow;
+      font-size: 50px;
+
+}
+
+
+/* ============new css======== */
+
+.boxarea {
+    display: flex;
+    justify-content: space-between;
+}
+.boxare{
+    display: flex;
+    justify-content: space-between; 
+}
+
+.box {}
+
+.box h3 {
+    color: yellow;
+    font-size: 50px;
+    line-height: 36px;
+}
+
+.box p {
+    font-size: 30px;
+    line-height: 0px;
+}
+
+.projects-box {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    align-items: center;
+}
+
+.contentarea {
+    margin: 43px 21px 0px 25px;
+    z-index: 1;
+
+}
+
+.contentarea h2 {
+    font-size: 25px;
+}
+
+.contentarea p {
+ font-size: 16px;
+}
+.uiux-box {
+    display: flex;
+    margin: 22px 112px 22px 0px
+}
+
+.uiux-box img {
+    width: 309px;
+    height: 194px;
+}
+
+.iconbox img {
+    width: 20px;
+    height: 20px;
+}
+.ui1{
+
+}
